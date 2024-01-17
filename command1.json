@@ -1,0 +1,5 @@
+{
+  "command": "TrimMessage",
+  "message": "Hello world!",
+  "maxLength": 5
+}

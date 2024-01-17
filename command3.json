@@ -1,0 +1,5 @@
+{
+  "command": "GenerateRandomNumber",
+  "min": 19,
+  "max": 90
+}
